@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kannan17ab
-- 👀 I’m interested in embedded designing
-- 🌱 I’m currently learning embedded designing
+- 👀 MATLAB Embedded developer
+- 🌱 Design and development of embedded systems
 - 💞️ I’m looking to collaborate on any projects that could gain me knowladge
 - 📫 How to reach me kannan17ab@gmail.com
 
